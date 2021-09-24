@@ -34,7 +34,7 @@ We rescale all images so that the smaller image dimension equals 256px.
 
 ## Training and Evaluation
 
-The commands required to train and evaluate the models in the paper can be found in the ``commands.md``.
+The commands required to train and evaluate the models in the paper can be found in the ``commands.md`` file.
 
 
 ## Results
@@ -72,7 +72,7 @@ Our models achieve the following performance:
 |      Model      | Misclass. |  NLLH  |   ECE   |  AUMRC  |
 | --------------- | --------- | ------ | ------- | ------- |
 |  ResNet18 MFVI  |   26.91%  |  1.271 |  0.131  |  0.0787 |
-|  ResNet18 MFVI  |   27.18%  |  1.297 |  0.136  |  0.0803 |
+|  ResNet18 SMFVI |   27.18%  |  1.297 |  0.136  |  0.0803 |
 |  ResNet18 MNVI  |   25.30%  |  1.085 |  0.105  |  0.0740 |
 
 ### Image Classification on ImageNet
