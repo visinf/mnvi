@@ -1,0 +1,6 @@
+import losses.classification_losses
+import losses.probabilistic_classification_losses
+
+
+ClassificationLoss = classification_losses.ClassificationLoss
+ClassificationLossVI =  probabilistic_classification_losses.ClassificationLossVI

@@ -1,0 +1,8 @@
+*.so
+*.o
+*.pyc
+*.idea
+*.ckpt
+output/*
+pretrained/
+data/
